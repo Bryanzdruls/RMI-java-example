@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RMICalc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RMICalc/dist/RMICalc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
